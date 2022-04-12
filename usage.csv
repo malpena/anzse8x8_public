@@ -1,2 +1,3 @@
-test,callsin,callsout
-user1,2,5
+,Report_Date_Range,Inbound_Total,Internal_Total,Outbound_Total,VM_Calls_Total,Inbound_Missed_Total,Internal_Missed_Total,Inbound_Abandoned_Total,Outbound_Abandoned_Total,Internal_Abandoned_Total,Inbound_Answered_Total,Outbound_Answered_Total,Internal_Answered_Total,Total_Answered,Total_Abandoned,Total_Missed,Total_Calls,Ring_Time,Avg_Ring_Time,Talk_Time,Avg_Talk_Time,Abandoned_Time,Avg_Abandoned_Time
+kookaburracomms,03-01-2022 to 03-31-2022,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00
+mariopena,04-01-2022 to 04-06-2022,1,0,3,0,0,0,0,1,0,1,2,0,3,1,1,4,0:01:00,0:00:15,0:00:32,0:00:10,0:00:34,0:00:34
