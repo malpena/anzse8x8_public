@@ -1,9 +1,6 @@
 ,Report_Date_Range,Inbound_Total,Internal_Total,Outbound_Total,VM_Calls_Total,Inbound_Missed_Total,Internal_Missed_Total,Inbound_Abandoned_Total,Outbound_Abandoned_Total,Internal_Abandoned_Total,Inbound_Answered_Total,Outbound_Answered_Total,Internal_Answered_Total,Total_Answered,Total_Abandoned,Total_Missed,Total_Calls,Ring_Time,Avg_Ring_Time,Talk_Time,Avg_Talk_Time,Abandoned_Time,Avg_Abandoned_Time
 kookaburracomms,02-01-2022 to 02-31-2022,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00
-mariopena,02-01-2022 to 02-31-2022,1,0,3,0,0,0,0,1,0,1,2,0,3,1,1,4,0:01:00,0:00:15,0:00:32,0:00:10,0:00:34,0:00:34
 kookaburracomms,03-01-2022 to 03-31-2022,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,2,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00
-mariopena,03-01-2022 to 03-31-2022,1,0,3,0,0,0,0,1,0,1,2,0,3,1,1,5,0:01:00,0:00:15,0:00:32,0:00:10,0:00:34,0:00:34
-mariopena,04-01-2022 to 04-31-2022,1,0,3,0,0,0,0,1,0,1,2,0,3,1,1,10,0:01:00,0:00:15,0:00:32,0:00:10,0:00:34,0:00:34
 syscaretech-demo,04-01-2022 to 04-30-2022,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0:00:00,0:00:00,0:00:00,0:00:00,0:00:03,0:00:03
 commandacom-demo,04-01-2022 to 04-30-2022,3,0,0,3,3,0,0,0,0,0,0,0,0,0,3,3,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00,0:00:00
 circlebc-demo,04-01-2022 to 04-30-2022,6,0,5,0,2,0,2,3,0,4,2,0,6,5,5,11,0:00:38,0:00:04,0:01:21,0:00:13,0:00:52,0:00:10
